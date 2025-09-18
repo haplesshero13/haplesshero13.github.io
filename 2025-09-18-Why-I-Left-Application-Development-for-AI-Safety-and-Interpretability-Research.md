@@ -1,3 +1,8 @@
+layout: post
+title: "Why I Left Application Development for AI Safety and Interpretability Research"
+date: 2025-09-18 20:40:00 -0000
+categories: Interpretability AI-Safety Research Engineering Black-Swan
+
 ## Part 1: The Dawn Of An AI Era
 
 It was early 2024, just over one year since the launch of ChatGPT on November 30, 2022, when I started noticing the ground trembling below my feet.
@@ -45,8 +50,8 @@ Unlike living human brains, which our species has collectively agreed fundamenta
 
 If, like I was, you are puzzled about where to start after coming from an app dev background, it might help to know a couple of basic vocab words. I don't mean attention heads and vectors, though you will of course learn those, too. I mean "research scientist" vs "research engineer". I won't go too far into the differences, but fundamentally the goal of any researcher is to create new knowledge. The difference is that "scientist" roles often are primary concerned with knowledge **novelty and discovery**, whereas "engineers" are still expected to read papers in conjunction with the scientists, collaborate to gain a deep understanding of the research problem, then find **practical solutions to the technical challenges of implementing new research**.
 
-Start with Stage 1 from [this blog post by Neel Nanda](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher) on how to become an interpretability *researcher*, then come back once you've followed most of his curriculum. By then, you should have studied basic math, read one or two papers *max* on the architecture of LLMs, implemented a transformer from scratch, and written mech interp code. Then we will diverge slightly, so keep reading his post a little bit, but stick around here for *our* journey of combing software engineering experience and the work of an interpretability *research engineer*. Instead of opting to replicate and extend existing research, searching for research problems, and writing papers, we are going to practice *replicating, adapting, and scaling* research results and *applying them to specific domain settings*.
+Start with Stage 1 from [this blog post by Neel Nanda](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher) on how to become an interpretability *researcher*, then come back once you've followed most of his curriculum. By then, you should have studied basic math, read one or two papers *max* on the architecture of LLMs, implemented a transformer from scratch, and written mech interp code. Then we will diverge slightly, so keep reading his post a little bit, but stick around here for *our* journey of combing software engineering experience and the work of an interpretability *research engineer*. Instead of opting to replicate and extend existing research, searching for research problems, and writing papers, we are going to practice **replicating, adapting, and scaling** research results and **applying them to specific domain settings**.
 
-Of course, you can follow the rest of Neel's post to the letter, but you and I are coming to this with a very different background that *adds value to any research lab*. And while one is certainly able to pivot entirely into pure, fundamental research labs, perhaps by obtaining a PhD, no lab is complete without the skills to implement clean, reusable, scalable code. And not everyone wants or needs a PhD.
+Of course, you can follow the rest of Neel's post to the letter, but you and I are coming to this with a very different background that *adds value to any research lab*. And while one is certainly able to pivot entirely into pure, fundamental research, perhaps by obtaining a PhD, no lab is complete without the skills to implement clean, reusable, maintainable code. And not everyone wants or needs a PhD.
 
 See you next time!
