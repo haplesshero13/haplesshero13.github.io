@@ -6,7 +6,7 @@ I currently work as a Research Assistant to Professor David Bau at Northeastern/
 
 This blog is titled as such because I believe this generation's black swan event is the rise of powerful AI systems.
 
-Follow along as I become one myself:
+Follow along as I become an interpreter and wrangler of such black swan systems myself:
 
 1. [Why I Left Application Development for AI Safety and Interpretability Research](/2025/09/18/Why-I-Left-Application-Development-for-AI-Safety-and-Interpretability-Research.html)
 
