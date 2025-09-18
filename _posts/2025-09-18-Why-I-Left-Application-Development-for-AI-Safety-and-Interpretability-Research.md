@@ -2,7 +2,6 @@
 layout: post
 title: "Why I Left Application Development for AI Safety and Interpretability Research"
 date: 2025-09-18 20:40:00 -0000
-categories: Interpretability AI-Safety Research Engineering Black-Swan
 author: "Avery Yen"
 ---
 
