@@ -36,7 +36,7 @@ Regardless, a real and present need exists in the world of AI: figuring out what
 
 The path was opening up before me, and I decided I had to walk it to see where it went. I had to become a black swan engineer.
 
-### Part 3: Becoming A Black Swan Engineer
+## Part 3: Becoming A Black Swan Engineer
 
 The rise of AI is our generation's [black swan event](https://en.wikipedia.org/wiki/Black_swan_theory): an occurrence so rare and outside expectations that no one truly predicted its speed or impact. Its consequences will be extreme, and we're still figuring out whether they'll be beneficial or catastrophic. We need black swan engineers: rare birds who recognize the rise of AI for what it is and who are charged with **ensuring the impact of AI is beneficial rather than catastrophic**. (This is, in fact, a term I just made up, but it sounded like I would have cool plumage, and Claude AI liked it too!) To get there, we need the foundations of AI engineering, an appetite for lifelong learning and research, and the desire to hold AI systems in check by cracking them open and examining their innards.
 
