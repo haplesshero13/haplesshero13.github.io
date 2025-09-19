@@ -36,11 +36,11 @@ AI Safety, depending on who you ask, is something between a buzzword and a moral
 
 Regardless, a real and present need exists in the world of AI: figuring out what they know (or think they know, or pretend to know, or what knowledge they model). This is what the discipline of *AI interpretability* aims to do.
 
-The path was opening up before me, and I decided I had to walk it to see where it went. I had to become a black swan engineer.
+The path was opening up before me, and I decided I had to walk it to see where it went. I had to become an AI researcher.
 
-## Part 3: Becoming A Black Swan Engineer
+## Part 3: Becoming A Black Swan Researcher
 
-The rise of AI is our generation's [black swan event](https://en.wikipedia.org/wiki/Black_swan_theory): an occurrence so rare and outside expectations that no one truly predicted its speed or impact. Its consequences will be extreme, and we're still figuring out whether they'll be beneficial or catastrophic. We need black swan engineers: rare birds who recognize the rise of AI for what it is and who are charged with **ensuring the impact of AI is beneficial rather than catastrophic**. (This is, in fact, a term I just made up, but it sounded cool.) To get there, we need the foundations of AI engineering, an appetite for lifelong learning and research, and the desire to hold AI systems in check by cracking them open and examining their innards.
+The rise of AI is our generation's [black swan event](https://en.wikipedia.org/wiki/Black_swan_theory): an occurrence so rare and outside expectations that no one truly predicted its speed or impact. Its consequences will be extreme, and we're still figuring out whether they'll be beneficial or catastrophic. We need AI researchers who are **ensuring the impact of AI is beneficial rather than catastrophic**. To get there, we need the foundations of AI engineering, an appetite for lifelong learning and research, and the desire to hold AI systems in check by cracking them open and examining their innards.
 
 If, like me, you came to this field and are along for the journey, you might need a very quick, down-and-dirty primer on why this field of Interpretability exists and why it needs dedicated, clever people with tech knowledge. Here it is: LLM AI systems have at their very core a bunch of numbers (in the deep neural network part) that are related to each other, the inputs, and the outputs of the system. The problem is, there are an unthinkable amount of these numbers and all of them are generated in an automated process where *no human interacts with the computer*.
 
