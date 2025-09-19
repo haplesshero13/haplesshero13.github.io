@@ -1,4 +1,4 @@
-# Becoming a Black Swan Engineer
+# This Is Our Black Swan Moment
 
 Hi, I'm Avery. I care about ethical use of technolgy and the future of humanity as we learn to coexist with AI.
 
