@@ -26,7 +26,7 @@ The AI coding agent has all but become a meme now, but there is reason to believ
 Until the coding robots arrived, the highest level of abstractions I knew were those I was working on then: UI components, CRUD operation generators, database paradigms, infrastructure-as-code. All of that had changed once the coding robots came for our jobs, and I was part of the problem. Now, software development *could reasonably become* prompt engineering. (Hey, if it makes people's specs and tests better, maybe we're better off?) What an ironic time to be alive and working in software.
 
 Now the debate is of course still out on what the *right* level of abstraction is for the coding robots and the coders to co-operate at, and frontier models and agents push that boundary every day, but I think the dust will settle eventually. Expert practitioners like my former colleague Kent Beck put forth great opinions on AI Augmented Coding very elegantly; I don't. Go read [his website](https://kentbeck.com/) and [blog Tidy First](https://tidyfirst.substack.com/) instead.
-## Part 2: Push-Pull
+## Part 2: Push and Pull
 
 All major life decision points have pushes and pulls, and Part 1 set the scene for the push in my life. Then came the pull.
 
@@ -37,8 +37,7 @@ AI Safety, depending on who you ask, is something between a buzzword and a moral
 Regardless, a real and present need exists in the world of AI: figuring out what they know (or think they know, or pretend to know, or what knowledge they model). This is what the discipline of *AI interpretability* aims to do.
 
 The path was opening up before me, and I decided I had to walk it to see where it went. I had to become an AI researcher.
-
-## Part 3: Becoming A Black Swan Researcher
+## Part 3: This Is Our Black Swan Event
 
 The rise of AI is our generation's [black swan event](https://en.wikipedia.org/wiki/Black_swan_theory): an occurrence so rare and outside expectations that no one truly predicted its speed or impact. Its consequences will be extreme, and we're still figuring out whether they'll be beneficial or catastrophic. We need AI researchers who are **ensuring the impact of AI is beneficial rather than catastrophic**. To get there, we need the foundations of AI engineering, an appetite for lifelong learning and research, and the desire to hold AI systems in check by cracking them open and examining their innards.
 
