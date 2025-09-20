@@ -8,6 +8,6 @@ This blog is titled as such because I believe this generation's black swan event
 
 Follow along as I become an interpreter and wrangler of black swan systems myself:
 
-1. [Why I Left Application Development for AI Safety and Interpretability Research](/2025/09/18/Why-I-Left-Application-Development-for-AI-Safety-and-Interpretability-Research.html)
+1. [Why I Left Application Development for AI Interpretability Research](/2025/09/18/Why-I-Left-Application-Development-for-AI-Interpretability-Research.html)
 
 Feel free to find me on [LinkedIn](https://linkedin.com/in/averyyen/).
