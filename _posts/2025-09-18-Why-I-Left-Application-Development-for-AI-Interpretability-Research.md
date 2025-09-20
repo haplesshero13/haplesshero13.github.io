@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why I Left Application Development for AI Safety and Interpretability Research"
+title: "Why I Left Application Development for AI Interpretability Research"
 date: 2025-09-18 20:40:00 -0000
 author: "Avery Yen"
 ---
