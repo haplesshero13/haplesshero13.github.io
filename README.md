@@ -4,6 +4,8 @@ Hi, I'm Avery. I care about ethical use of technology and the future of humanity
 
 As a first year MS candidate in Data Engineering at Northeastern university, I currently work as a Research Assistant to Professor David Bau at the [National Deep Inference Fabric](https://ndif.us), studying language model interpretability.
 
+Before that, I spent over 12 years as a software engineer, with my longest tenure at Pivotal Labs (now VMWare).
+
 ## Research Interests
 
 tl;dr **What *can* AI do for us, and what are the *right things* to do with AI, and can we intersect those two things?**
