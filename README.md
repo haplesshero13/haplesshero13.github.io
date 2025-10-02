@@ -1,13 +1,19 @@
-# This Is Our Black Swan Event
+# Avery Yen
 
 Hi, I'm Avery. I care about ethical use of technology and the future of humanity as we learn to coexist with AI.
 
 I currently work as a Research Assistant to Professor David Bau at Northeastern working on the [National Deep Inference Fabric](https://ndif.us), studying language model interpretability.
 
-This blog is titled as such because I believe this generation's black swan event is the rise of powerful AI systems.
+## Research Interests
 
-As I write about how I got into AI Interpretability, you can follow along and copy my learning curriculum:
+Is the AI field solving the right problems? The AI community, in its rush to ship bigger, faster, more powerful models, is frequently missing an important step: asking what we *should* be building. Beyond that, rampant tech-founder-optimism has exacerbated the fact that somehow, many societal and environmental problems are *technically achievable today* yet unsolved.
 
-1. [Why I Left Application Development for AI Interpretability Research](/2025/09/18/Why-I-Left-Application-Development-for-AI-Interpretability-Research.html)
+We frequently forget that AI is meant to be a tool for humans, and if that is the case, we *must* interrogate how to recover societal and justice issues we've encoded, such as the unfairness (and outright theft) of training data, the effects of deliberate censorship, and other inequities, from the black box of LLMs.
+
+Additionally, if we can recover insights from within the black box of AI, we stand to gain a lot of insights into real problems facing the world today, whether it's climate, healthcare, basic science, and more.
+
+In summary, what *can* AI do for us, and what are the *right things* to do with AI, and can we intersect those two things?
+
+## Contact
 
 Feel free to find me on [LinkedIn](https://linkedin.com/in/averyyen/).
