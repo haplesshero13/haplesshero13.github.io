@@ -1,6 +1,6 @@
 # Avery Yen
 
-Hi, I'm Avery. I care about ethical use of technology and the future of humanity as we learn to coexist with AI.
+Hi, I'm Avery. I care about ethical use of technology and the future of humanity as we increasingly coexist with AI.
 
 I currently work as a Research Assistant to Professor David Bau at Northeastern working on the [National Deep Inference Fabric](https://ndif.us), studying language model interpretability.
 
