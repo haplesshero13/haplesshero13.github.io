@@ -2,7 +2,7 @@
 
 Hi, I'm Avery. I care about ethical use of technology and the future of humanity as we increasingly coexist with AI.
 
-As a first year MS candidate in Data Engineering at Northeastern university, I currently work as a Research Assistant to Professor David Bau at the [National Deep Inference Fabric](https://ndif.us), studying language model interpretability.
+As a first year MS candidate in Data Analytics Engineering at Northeastern university, I currently work as a Research Assistant to Professor David Bau at the [National Deep Inference Fabric](https://ndif.us), studying language model interpretability.
 
 Before that, I spent over 12 years as a software engineer, with my longest tenure at Pivotal Labs (now VMWare).
 
