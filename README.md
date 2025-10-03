@@ -10,11 +10,11 @@ Before that, I spent over 12 years as a software engineer, with my longest tenur
 
 tl;dr **What *can* AI do for us, and what are the *right things* to do with AI, and can we intersect those two things?**
 
-Is the AI field solving the right problems? The AI community, in its rush to ship bigger, faster, more powerful models, is frequently missing an important step: asking what we *should* be building. At the same time, rampant tech optimism has grown despite the fact that somehow, many societal and environmental problems are *technically achievable today* yet unsolved.
+Is the AI field solving the right problems? The AI community often celebrates bigger, faster, more powerful models, but I seek to answer what we *should* be building. At the same time, AI capability has grown and yet, many societal and environmental problems are *technically achievable today* yet remain unsolved.
 
-AI is a tool by and for humans, and so we *must* interrogate how to recover societal and justice issues we've encoded, such as the unfairness (and outright theft) of training data, the effects of deliberate censorship, and other inequities, from the black box of LLMs.
+AI is a tool by and for humans, so we must interrogate how to recover human biases and values we've encoded, improve training data attribution, and study the effects of safety and censorship training inside the black box of LLMs.
 
-Additionally, if we can recover insights from within the black box of AI, we stand to gain a lot of insights into real problems facing the world today, whether it's climate, healthcare, basic science, etc.
+Additionally, if we can recover insights from AI systems, we stand to gain a lot of insights into real problems facing the world today, whether it's climate, healthcare, or basic science.
 
 ## Contact
 
