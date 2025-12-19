@@ -6,11 +6,11 @@ Before that, I spent over 12 years as a software engineer, with my longest tenur
 
 ## Research Interests
 
-**Transparent, interpretable, trustable AI Systems**
+**AI Systems Responsibility & Safety**
 
-I believe that understanding how AI systems understand the world and make decisions is essential for building technology we can trust and rely on.
+I believe that understanding and elucidating how AI systems learn and think about the world and make decisions is essential for building technology we can trust and depend on.
 
-I am currently interested in how adversarial behaviors in LLM pre- and post-training can be understood, detected, and mitigated.
+I am currently working in how adversarial behaviors in LLM pre- and post-training can be understood, detected, and mitigated.
 
 ## Selected Projects
 
