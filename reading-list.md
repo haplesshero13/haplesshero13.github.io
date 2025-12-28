@@ -1,4 +1,4 @@
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762): Introduces the Transformer architecture for machine translation
+- [Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762): Introduces the Transformer architecture for machine translation
 - [Language Models are Few-Shot Learners (2020)](https://arxiv.org/abs/2005.14165): GPT-3 showed scaling up decoder-only language models allows them to learn new tasks (175 billion parameters, 10x more than previous)
 - [Training language models to follow instructions with human feedback (2022)](https://arxiv.org/abs/2203.02155): ChatGPT (aligning language models with user intent via reinforcement learning)
 - [Training Compute-Optimal Large Language Models (2022)](https://arxiv.org/abs/2203.15556): Experimentally understanding optimal training corpus size (putting the Large in the Large Language Model)
