@@ -1,6 +1,6 @@
 - [Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762): Introduces the Transformer architecture for machine translation
 - [Language Models are Few-Shot Learners (2020)](https://arxiv.org/abs/2005.14165): GPT-3 showed scaling up decoder-only language models allows them to learn new tasks (175 billion parameters, 10x more than previous)
 - [Training language models to follow instructions with human feedback (2022)](https://arxiv.org/abs/2203.02155): ChatGPT (aligning language models with user intent via reinforcement learning)
-- [Training Compute-Optimal Large Language Models (2022)](https://arxiv.org/abs/2203.15556): Experimentally understanding optimal training corpus size (proving that the AI industry was building models that were too big and not trained on enough data)
+- [Training Compute-Optimal Large Language Models (2022)](https://arxiv.org/abs/2203.15556): Experimentally understanding that more data is better than more parameters in your model
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2023)](https://arxiv.org/abs/2201.11903#:~:text=,parameter): Using long strings of "intermediate" output to allow large language models to perform complex reasoning
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (2025)](https://arxiv.org/abs/2501.12948): Training LLMs using "verifiable rewards" in reinforcement learning (rather than human feedback, which is expensive)
