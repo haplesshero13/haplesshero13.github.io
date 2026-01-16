@@ -1,18 +1,18 @@
 # Avery Yen
+Hi, I'm Avery. I'm an AI researcher investigating adversarial robustness and evaluation methods for frontier language models. I'm a Research Assistant at the [National Deep Inference Fabric](https://ndif.us) (NDIF) with David Bau, a member of MIT AI Alignment (MAIA), and pursuing my MS in Computer Science at Northeastern University.
 
-Hi, I'm Avery. I'm a Research Assistant to Professor David Bau at the [National Deep Inference Fabric](https://ndif.us), where I study interpretability of large language models.
-
-Before that, I spent over 12 years as a software engineer, with my longest tenure at [Pivotal Labs](https://en.wikipedia.org/wiki/Pivotal_Labs).
+Before transitioning to AI research, I spent over 12 years as a software engineer, with my longest tenure at Pivotal Labs.
 
 ## Research Interests
 
-**AI Systems Responsibility & Safety**
+**AI Adversarial Evaluation**
 
-I believe that understanding and elucidating how AI systems learn and think about the world and make decisions is essential for building technology we can trust and depend on.
+I believe that understanding how AI systems learn, reason, and fail is essential for building technology we can trust. My work focuses on evaluation methodologies that reveal adversarial behaviors under messy, real-life situations.
 
-I am currently working in how adversarial behaviors in LLM pre- and post-training can be understood, detected, and mitigated.
+Current projects explore deception detection in multi-agent games, quantization effects on model alignment, and live rankings for frontier model capabilities.
 
 ## Selected Projects
+- Multi-Agent Social Deception Arena (project lead): Evaluation platform for testing strategic deception and agent profiling capabilities in frontier LLMs using social deduction games. Live leaderboard continuously benchmarks ChatGPT, Claude, DeepSeek, and other models.
 
 - Reasoning Training for Small Language Models (~1B): Independent project to develop an efficient, near-SotA post-training recipe for 1B language models under limited computation budgets (ongoing)
 
