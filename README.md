@@ -1,5 +1,5 @@
 # Avery Yen
-Hi, I'm Avery. I'm an AI researcher investigating adversarial robustness and evaluation methods for frontier language models. I'm a Research Assistant at the [National Deep Inference Fabric](https://ndif.us) (NDIF) with David Bau, a member of MIT AI Alignment (MAIA), and pursuing my MS in Computer Science at Northeastern University.
+Hi, I'm Avery. I'm a longtime product engineer turned AI researcher investigating adversarial robustness and evaluation methods for frontier language models. I'm a Research Assistant at the [National Deep Inference Fabric](https://ndif.us) (NDIF) with David Bau, a member of MIT AI Alignment (MAIA), and pursuing my MS in Computer Science at Northeastern University.
 
 Before transitioning to AI research, I spent over 12 years as a software engineer, with my longest tenure at Pivotal Labs.
 
