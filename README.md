@@ -14,7 +14,7 @@ Current projects explore deception detection in multi-agent games, quantization 
 ## Selected Projects
 - Multi-Agent Social Deception Arena (project lead): Evaluation platform for testing strategic deception and agent profiling capabilities in frontier LLMs using social deduction games. Live leaderboard continuously benchmarks ChatGPT, Claude, DeepSeek, and other models.
 
-- [Training Gemma3 1B To Reason](https://www.kaggle.com/competitions/google-tunix-hackathon/writeups/showing-your-work-training-gemma-1b-to-reason): Independent project to develop an efficient, near-SotA post-training recipe for 1B language models under limited computation budgets (under judgement) [notebook here](https://www.kaggle.com/code/averyyen/tunix-model-reasoning-training/notebook)
+- [Showing Our Work: Training Gemma3 1B To Reason](https://www.kaggle.com/competitions/google-tunix-hackathon/writeups/showing-your-work-training-gemma-1b-to-reason): Independent project to develop an efficient, near-SotA post-training recipe for 1B language models under limited computation budgets (under judgement) [notebook here](https://www.kaggle.com/code/averyyen/tunix-model-reasoning-training/notebook)
 
 - [National Deep Inference Fabric](https://ndif.us): The NSF National Deep Inference Fabric (NDIF) is a research computing project that enables researchers and students to perform mechanistic interpretability research on models, with sizes up to a 405B parameter open-weight model.
 
