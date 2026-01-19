@@ -11,12 +11,15 @@ I believe that understanding how AI systems learn, reason, and fail is essential
 
 Current projects explore deception detection in multi-agent games, quantization effects on model alignment, and live rankings for frontier model capabilities.
 
-## Selected Projects
+### Selected Projects
 - Multi-Agent Social Deception Arena (project lead): Evaluation platform for testing strategic deception and agent profiling capabilities in frontier LLMs using social deduction games. Live leaderboard continuously benchmarks ChatGPT, Claude, DeepSeek, and other models.
 
 - [Showing Our Work: Training Gemma3 1B To Reason](https://www.kaggle.com/competitions/google-tunix-hackathon/writeups/showing-your-work-training-gemma-1b-to-reason): Independent project to develop an efficient, near-SotA post-training recipe for 1B language models under limited computation budgets (under judgement) [notebook here](https://www.kaggle.com/code/averyyen/tunix-model-reasoning-training/notebook)
 
 - [National Deep Inference Fabric](https://ndif.us): The NSF National Deep Inference Fabric (NDIF) is a research computing project that enables researchers and students to perform mechanistic interpretability research on models, with sizes up to a 405B parameter open-weight model.
+
+## Other Interests
+I've been playing classical cello since I was about 7, having previously subbed with the Boston Philharmonic, and continue to play today as part of the [Mercury Orchestra](https://www.mercuryorchestra.org/) and various other groups.
 
 ## Contact
 
