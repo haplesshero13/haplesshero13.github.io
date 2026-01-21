@@ -78,7 +78,7 @@ Yes **and**, have we humans not time and time again realized that "helpful, harm
 _doesn't buy you much in business?_ Capitalism is by default set up as an *adversarial, zero-sum* domain.
 
 What may be truly startling is that we set so many bright people up to inhabit personas that flourish
-in the capitalism domain, day in, day out, year after year, during their peak years. In my
+in the capitalist domain, day in, day out, year after year, for most of their lives. In my
 anecdotal experience, it isn't an easy or comfortable one for many people to inhabit, or so
 I have heard once folks aren't under the threat of economic or social ruin.
 
