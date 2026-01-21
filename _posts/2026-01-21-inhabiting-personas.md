@@ -3,7 +3,7 @@ layout: post
 title: "Inhabiting Personas"
 author: Avery Yen
 date: 2026-01-21
-categories: [blog]
+tags: AI, personas
 ---
 
 A reflection on the universality of inhabiting personas in daily life, and how LLMs are helping us
