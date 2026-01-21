@@ -11,9 +11,7 @@ Before transitioning to AI research, I spent over 12 years as a software enginee
 
 ## Research Interests
 
-**AI Adversarial Evaluation**
-
-I believe that understanding how AI systems learn, reason, and fail is essential for building technology we can trust. My work focuses on evaluation methodologies that reveal adversarial behaviors under messy, real-life situations.
+I believe that understanding how AI systems learn, reason, and fail is essential for building technology we can trust. My recent work focuses on methodologies that reveal adversarial behaviors under messy, real-life situations.
 
 Current projects explore deception detection in multi-agent games, training small reasoning models, and understanding refusal and alignment patterns in frontier open and closed models.
 
