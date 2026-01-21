@@ -3,13 +3,19 @@ Hi, I'm Avery. I'm a longtime product engineer turned AI researcher investigatin
 
 Before transitioning to AI research, I spent over 12 years as a software engineer, with my longest tenure at Pivotal Labs.
 
+## Blog Posts
+
+{% for post in site.posts %}
+- **[{{ post.title }}]({{ post.url | relative_url }})** - {{ post.date | date: "%B %d, %Y" }}
+{% endfor %}
+
 ## Research Interests
 
 **AI Adversarial Evaluation**
 
 I believe that understanding how AI systems learn, reason, and fail is essential for building technology we can trust. My work focuses on evaluation methodologies that reveal adversarial behaviors under messy, real-life situations.
 
-Current projects explore deception detection in multi-agent games, quantization effects on model alignment, and live rankings for frontier model capabilities.
+Current projects explore deception detection in multi-agent games, training small reasoning models, and understanding refusal and alignment patterns in frontier open and closed models.
 
 ### Selected Projects
 - Multi-Agent Social Deception Arena (project lead): Evaluation platform for testing strategic deception and agent profiling capabilities in frontier LLMs using social deduction games. Live leaderboard continuously benchmarks ChatGPT, Claude, DeepSeek, and other models.
@@ -18,11 +24,6 @@ Current projects explore deception detection in multi-agent games, quantization 
 
 - [National Deep Inference Fabric](https://ndif.us): The NSF National Deep Inference Fabric (NDIF) is a research computing project that enables researchers and students to perform mechanistic interpretability research on models, with sizes up to a 405B parameter open-weight model.
 
-## Blog Posts
-
-{% for post in site.posts %}
-- **[{{ post.title }}]({{ post.url | relative_url }})** - {{ post.date | date: "%B %d, %Y" }}
-{% endfor %}
 
 ## Other Interests
 I've been playing classical cello since I was about 7, having previously subbed with the Boston Philharmonic, and continue to play today as part of the [Mercury Orchestra](https://www.mercuryorchestra.org/) and various other groups.
