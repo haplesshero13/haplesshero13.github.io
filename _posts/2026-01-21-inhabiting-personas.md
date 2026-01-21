@@ -57,10 +57,11 @@ But I'd argue a slightly deeper problem: capitalism is not the comfiest domain t
 
 ## The Personas We Inhabit
 
-Project Vend is in fact a brilliant persona exploration. In Part 2 for example, they do
-introduce to the original Claudius employee the CEO Seymour Cash and Clothius bots (also dressed up Claude's),
-which was intended to help increase business sustainability and expand to custom merchandise,
-but this still didn't go so well. Or at least, it didn't result in great business decisions.
+Project Vend is in fact a brilliant persona exploration. In Part 2 for example, they
+introduce the CEO Seymour Cash and Clothius bots (also dressed up Claude's), which was intended
+to help the original Claudius employee increase business sustainability and breadth,
+but business still didn't go so well. Or at least, not for the shop's bottom line.
+It was probably great for the person with the free PlayStation.
 
 While the reporting focuses a lot on tool use and hallucination, they kind of sheepishly
 acknowledge that actually profitable, useful shop bots created from general, helpful AI assistants
