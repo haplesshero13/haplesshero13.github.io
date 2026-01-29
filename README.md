@@ -16,7 +16,7 @@ I believe that understanding how AI systems learn, reason, and fail is essential
 Current projects explore deception detection in multi-agent games, training small reasoning models, and understanding refusal and alignment patterns in frontier open and closed models.
 
 ### Selected Projects
-- [Multi-Agent Social Deception Arena](https://lmdeceptionarena.averyyen.dev/) (project lead): Evaluation platform for testing strategic deception and agent profiling capabilities in frontier LLMs using social deduction games. Live leaderboard continuously benchmarks ChatGPT, Claude, Gemini, DeepSeek, Kimi, and other models.
+- [Multi-Agent Social Deception Arena](https://lmdeceptionarena.averyyen.dev/) (project lead): Evaluation platform for testing strategic deception and persuasion capabilities in frontier LLMs using a well-loved social deduction game. Live leaderboard continuously benchmarks ChatGPT, Claude, Gemini, DeepSeek, Kimi, and other models.
 
 - [Showing Our Work: Training Gemma3 1B To Reason](https://www.kaggle.com/competitions/google-tunix-hackathon/writeups/showing-your-work-training-gemma-1b-to-reason): Independent project to develop an efficient, near-SotA post-training recipe for 1B language models under limited computation budgets (under judgement) [notebook here](https://www.kaggle.com/code/averyyen/tunix-model-reasoning-training/notebook)
 
