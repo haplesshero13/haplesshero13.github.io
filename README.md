@@ -11,7 +11,7 @@ Before transitioning to AI research, I spent over 12 years as a software enginee
 
 ## Research Interests
 
-Understanding how AI systems behave with and against human interests is a fundamental and urgent research question.
+I believe understanding how AI systems behave with and against human interests is the most fundamental and urgent AI research question.
 
 I develop tools and studies that help humans understand, audit, and shape AI systems to benefit all humans.
 
