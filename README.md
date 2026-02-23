@@ -18,10 +18,9 @@ I develop tools and studies that help humans understand, audit, and shape AI sys
 ### Selected Projects
 - [Multi-Agent Social Deception Arena](https://lmdeceptionarena.averyyen.dev/) (project lead): Evaluation platform for testing strategic deception and persuasion capabilities in frontier LLMs using a well-loved social deduction game. Live leaderboard continuously benchmarks ChatGPT, Claude, Gemini, DeepSeek, Kimi, and other models. Forthcoming study of long-horizon multi-turn social gaming.
 
-- OpenClaw/Agentic AI study - forthcoming work.
+- [Agents of Chaos](https://agentsofchaos.baulab.info/) OpenClaw/Agentic AI red-teaming study where we expose a lot of urgent problems with agentic AI and suggest research directions.
 
 - [National Deep Inference Fabric](https://ndif.us): The NSF National Deep Inference Fabric (NDIF) is a research computing project that enables researchers and students to perform mechanistic interpretability research on models, with sizes up to a 405B parameter open-weight model.
-
 
 ## Other Interests
 I've been playing classical cello since I was about 7, having previously subbed with the Boston Philharmonic, and continue to play today as part of the [Mercury Orchestra](https://www.mercuryorchestra.org/) and various other groups.
