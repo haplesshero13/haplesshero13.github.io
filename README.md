@@ -5,7 +5,7 @@ Before transitioning to AI research, I spent over 12 years as a software product
 
 ## Research Interests
 
-I believe understanding how AI systems behave with and against human interests is the most fundamental and urgent AI research question. I'm particularly interested in studying and evaluating AI systems to understand risks and shortcomings.
+I believe understanding how AI systems behave with and against human interests is the most fundamental and urgent AI research question. I'm particularly interested in studying and evaluating frontier Agentic AI systems to understand capabilities, risks, and shortcomings.
 
 My current work focuses on how AI agents work in multi-agent, multi-human conditions; how model provider values and constraints shape AI behavior; and how to build evaluation infrastructure that reflects actual stakes. 
 
