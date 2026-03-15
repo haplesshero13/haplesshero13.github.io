@@ -7,7 +7,7 @@ Before transitioning to AI research, I spent over 12 years as a software product
 
 I believe understanding how AI systems behave with and against human interests is the most fundamental and urgent AI research question. I'm particularly interested in studying and evaluating frontier Agentic AI systems to understand capabilities, risks, and shortcomings.
 
-My current work focuses on how AI agents work in multi-agent, multi-human conditions; how model provider values and constraints shape AI behavior; and how to build evaluation infrastructure that reflects actual stakes. 
+My current work focuses on how AI agents work in multi-agent, multi-human conditions; how model provider values and constraints shape AI behavior; and how to monitor, evaluate, and audit AI systems in ways that reflect realistic stakes. I have experience both with open research and internal/proprietary studies within frontier labs.
 
 ### Selected Projects
 - [Multi-Agent Social Deduction Gaming Arena](https://lmdeceptionarena.averyyen.dev/) (project lead): Live evaluation platform benchmarking frontier LLMs on long-horizon strategic reasoning in multi-agent social environments. Continuous leaderboard tracks GPT, Claude, Gemini, DeepSeek, Kimi, and others. Forthcoming study on sustained goal pursuit, coalition dynamics, social deception and deduction abilities across extended multi-turn interactions using a well-loved social deduction game.
