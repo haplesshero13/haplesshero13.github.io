@@ -5,8 +5,8 @@ author: Avery Yen
 date: 2026-01-21
 tags: AI, agents, coding
 ---
+**tl;dr:** Use **agent trio** [https://github.com/haplesshero13/agent-trio](https://github.com/haplesshero13/agent-trio) to introduce natural-language-only, **selective friction** to your agentic activities to *minimize regretted work* and *deliberately promote human understanding*.
 
-> **tl;dr:** Use **agent trio** [https://github.com/haplesshero13/agent-trio](https://github.com/haplesshero13/agent-trio) to introduce natural-language-only, **selective friction** to your agentic activities to *minimize regretted work* and *deliberately promote human understanding*.
 ## What got us here?
 Once upon a time, humans hand-wired computers to program them. Thankfully, someone invented silicon chips.
 
