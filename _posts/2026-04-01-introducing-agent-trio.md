@@ -2,7 +2,7 @@
 layout: post
 title: "Introducing agent trio"
 author: Avery Yen
-date: 2026-01-21
+date: 2026-04-01
 tags: AI, agents, coding
 ---
 **tl;dr:** Use **agent trio** [https://github.com/haplesshero13/agent-trio](https://github.com/haplesshero13/agent-trio) to introduce natural-language-only, **selective friction** to your agentic activities to *minimize regretted work* and *deliberately promote human understanding*.
