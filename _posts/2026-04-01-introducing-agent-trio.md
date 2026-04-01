@@ -34,8 +34,8 @@ Many coding agent skills or harnesses focus on maximizing one thing at the expen
 
 **agent trio** helps you steer your coding agents to reason better, work more independently, _and_ produce less waste at the same time by introducing _principled amounts of autonomy and friction in selective ways_.
 
-Natural language is the best way we know of today to steer agentic behavior, which is why this repo contains zero code. The code will get outdated, anyway.
-
 Rather than introduce bureaucracy into the system, we ask your agent to produce autonomous iterations that are scoped, well-reasoned, reviewed, self-improving, and resumable. The human and head agent spend their precious time and reasoning tokens planning, then agents operate until multiple agents have converged on an outcome, despite their independent contexts: joint approval, or human escalation.
+
+Natural language is the best way we know of today to steer agentic behavior, which is why this repo contains zero code. The code will get outdated, anyway, so you get opinionated principles over yet another coding agent harness.
 
 Let us know how [**agent trio**](https://github.com/haplesshero13/agent-trio) works for you!
