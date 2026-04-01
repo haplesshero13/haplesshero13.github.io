@@ -36,6 +36,6 @@ Many coding agent skills or harnesses focus on maximizing one thing at the expen
 
 Natural language is the best way we know of today to steer agentic behavior, which is why this repo contains zero code. The code will get outdated, anyway.
 
-Rather than introduce bureaucracy into the system, add the correct amount of friction so that your repo will always stay autonomously iterable but well-reasoned, reviewed, self-improving, and resumable.
+Rather than introduce bureaucracy into the system, we ask your agent to produce autonomous iterations that are scoped, well-reasoned, reviewed, self-improving, and resumable. The human only needs to know when multiple agent have converged on approval or human escalation, despite their independent contexts. It also provides a natural way to select models for specific roles based on their strengths and efficiencies. This saves you time on rework, and wasted tokens.
 
 Let us know how [**agent trio**](https://github.com/haplesshero13/agent-trio) works for you!
