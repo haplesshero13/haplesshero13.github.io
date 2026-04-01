@@ -32,7 +32,7 @@ The only requirement is one coding agent that can spawn a subagent (Claude, Code
 ## Why another framework?
 Many coding agent skills or harnesses focus on maximizing one thing at the expense of another.
 
-**agent trio** helps you steer your coding agents to reason better, work more independently, _and_ produce less waste at the same time by introducing _principled amounts of autonomy and friction at the same time_.
+**agent trio** helps you steer your coding agents to reason better, work more independently, _and_ produce less waste at the same time by introducing _principled amounts of autonomy and friction in selective ways_.
 
 Natural language is the best way we know of today to steer agentic behavior, which is why this repo contains zero code. The code will get outdated, anyway.
 
