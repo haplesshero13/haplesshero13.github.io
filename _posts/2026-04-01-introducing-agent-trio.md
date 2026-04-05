@@ -7,6 +7,16 @@ tags: AI, agents, coding
 ---
 **tl;dr:** Use **agent trio** [https://github.com/haplesshero13/agent-trio](https://github.com/haplesshero13/agent-trio) to introduce natural-language-only, **selective friction** to your agentic activities to *minimize regretted work* and *deliberately promote human understanding*.
 
+## What is it?
+
+**agent trio** is a tiny, zero-code bootstrap for agentic software work. You (or your agent) copy it into a new or existing repo to get a simple agentic coder loop, centered around a few explicit primitives: file-based handoffs, human-readable artifacts, fresh agent-context reviewer, and resumable state. 
+
+You'll get three (sub)agents, max, this way. Hence the name. You can minimize overhead by using one agent and a subagent, and then you can be the third member of the trio. You can use one model provider for the whole thing, or go rainbow. It's up to you. (Your setup agent will ask you what you want.)
+
+**agent trio** is *not* a swarm framework, and it is *not* trying to maximize output. It is a lightweight way to encourage you to spend your best agentic tokens on reasoning, planning, and verification, while making scoped agent work autonomous and cheap.
+
+The only requirement is one coding agent that can spawn a subagent (Claude, Codex, OpenCode, etc.) and can follow instructions well.
+
 ## What got us here?
 Once upon a time, humans hand-wired computers to program them. Thankfully, someone invented silicon chips.
 
@@ -19,15 +29,6 @@ Back in the before times, I used to write every line of code, by hand, with anot
 Today, we can produce technical, context, and comprehension debt faster than you can say "Claude Code". The mechanics of the software engineer has been "disrupted", but ultimately, you are responsible for what code/docs/artifacts you (directly or causally via prompting) commit. 
 
 The most important feature of constantly pairing and using autonomous verification via tests and CI was to use _selective friction_ to allow shipping good features and debugging to be painless, while minimizing _regretful, wasteful output_. Agentic coding should be like that, too!
-## What is it?
-
-**agent trio** is a tiny, zero-code bootstrap for agentic software work. You (or your agent) copy it into a new or existing repo to get a simple agentic coder loop, centered around a few explicit primitives: file-based handoffs, human-readable artifacts, fresh agent-context reviewer, and resumable state. 
-
-You'll get three (sub)agents, max, this way. Hence the name. You can minimize overhead by using one agent and a subagent, and then you can be the third member of the trio. You can use one model provider for the whole thing, or go rainbow. It's up to you. (Your setup agent will ask you what you want.)
-
-**agent trio** is *not* a swarm framework, and it is *not* trying to maximize output. It is a lightweight way to encourage you to spend your best agentic tokens on reasoning, planning, and verification, while making scoped agent work autonomous and cheap.
-
-The only requirement is one coding agent that can spawn a subagent (Claude, Codex, OpenCode, etc.) and can follow instructions well.
 
 ## Why another framework?
 Many coding agent skills or harnesses focus on maximizing one thing at the expense of another.
