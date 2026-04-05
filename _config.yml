@@ -1,3 +1,3 @@
-remote_theme: haplesshero13/candelight@main
+remote_theme: haplesshero13/candlelight@main
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
