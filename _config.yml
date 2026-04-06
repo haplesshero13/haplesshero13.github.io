@@ -1,8 +1,16 @@
+title: Avery Yen
+author:
+  name: Avery Yen
+
 remote_theme: haplesshero13/candlelight@main
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
 navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/research/"
   - title: "Writing"
-    url: "/#recent-writing"
+    url: "/writing/"
