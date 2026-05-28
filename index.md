@@ -3,15 +3,19 @@ layout: home
 title: "About Me"
 ---
 
-Hi, I'm Avery. I'm a software engineer turned AI researcher. I'm a Research Assistant to David Bau, a member of MIT AI Alignment (MAIA), and pursuing my MS in Computer Science at Northeastern University, studying human-AI interaction and AI safety.
+Hi, I'm Avery. I create unique and illuminating ways to better evaluate agentic AI behavior.
+
+I'm a researcher collaborating with David Bau, a member of MIT AI Alignment (MAIA), and an incoming [CBAI Fellow](https://www.cbai.ai/summer-research-fellowship-26) working this summer with Jayson Lynch of MIT FutureTech. I have ongoing frontier AI lab experience.
 
 Before transitioning to AI research, I spent over 12 years as a software product engineer, with my longest tenure at Pivotal Labs.
 
 ## Research Interests
 
-I believe understanding how AI systems behave with and against human interests is the most fundamental and urgent AI research question. I'm particularly interested in studying and evaluating frontier Agentic AI systems to understand capabilities, risks, and shortcomings.
+I work on understanding how AI systems behave when they are made to do unusual, out-of-distribution things.
 
-My current work focuses on how AI agents work in multi-agent, multi-human conditions; how model provider values and constraints shape AI behavior; and how to monitor, evaluate, and audit AI systems in ways that reflect realistic stakes. I have experience both with open research and internal/proprietary studies within frontier labs.
+This includes settings like social deduction games, human red-teaming, refusal elicitation, and procedurally-invented programming languages.
+
+Check out the [research](/research/) for more!
 
 ## Other Interests
 
