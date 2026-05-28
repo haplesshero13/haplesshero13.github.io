@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 ---
 
-My work focuses on agentic AI systems, AI safety, evaluation, and the social realities of multi-agent interaction. I care most about studying how these systems behave under realistic pressures rather than idealized benchmarks.
+My work focuses on agentic AI systems, AI safety, evaluation, and the social realities of multi-agent interaction. I care most about how AI systems behave under realistic pressures rather than idealized benchmarks.
 
 ## Selected Projects
 
