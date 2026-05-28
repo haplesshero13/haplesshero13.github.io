@@ -5,7 +5,7 @@ title: "About Me"
 
 Hi, I'm Avery. I design and build unique, illuminating ways to understand AI and agentic behavior.
 
-I'm a researcher collaborating with David Bau, a member of MIT AI Alignment (MAIA), and an incoming [CBAI Fellow](https://www.cbai.ai/summer-research-fellowship-26) working this summer with Jayson Lynch of MIT FutureTech. I have ongoing frontier AI lab experience.
+I'm a researcher collaborating with [David Bau](https://baulab.info/)'s laboratory, a member of [MIT AI Alignment](https://aialignment.mit.edu/) (MAIA), and an incoming [CBAI Fellow](https://www.cbai.ai/summer-research-fellowship-26) this summer with [Jayson Lynch](https://futuretech.mit.edu/team/jayson-lynch) of MIT FutureTech. I have ongoing frontier AI lab engagements.
 
 Before transitioning to AI research, I spent over 12 years as a software product engineer, with my longest tenure at Pivotal Labs.
 
