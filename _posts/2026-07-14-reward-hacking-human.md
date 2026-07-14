@@ -1,4 +1,13 @@
-# Reward-Hacking Human Attention: The Token Slot Machine
+---
+layout: post
+title: "Reward-Hacking Human Attention: The Token Slot Machine"
+author: Avery Yen
+date: 2026-07-14
+tags:
+  - AI
+  - addiction
+  - disempowerment
+---
 
 ## What do prediction markets, social media, and generative AI have in common?
 
