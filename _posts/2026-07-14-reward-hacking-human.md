@@ -32,7 +32,7 @@ AI research, policy, and practice would do well to understand the implications o
 * **Speed:** the top providers have fast modes and optimize heavily for inference speed.  
 * **Teasing:** Gemini’s "follow-up question" feature; the "If you want, I can…" turn-ender on ChatGPT; the "just one more turn" effect of using Codex or Claude Code to get what you want, but for real this time
 
-This goes above and beyond simple explanations like sycophancy or other [LLM Dark Patterns](%20https://dl.acm.org/doi/epdf/10.1145/3772318.3791149). In fact, so long as you’re working with a probabilistic generative model, it hardly matters if the thing is stroking your ego; it just has to be plausibly good at the task at hand.
+This goes above and beyond simple explanations like sycophancy or other [LLM Dark Patterns](https://dl.acm.org/doi/epdf/10.1145/3772318.3791149). In fact, so long as you’re working with a probabilistic generative model, it hardly matters if the thing is stroking your ego; it just has to be plausibly good at the task at hand.
 
 If you’ve ever used AI coding tools, you understand the “just one more turn” effect of a generative AI session that seems to give you almost what you want, but is so quick and easy to use, lets you work alone, and is always asking you to do one more thing “if you want”. I’ve certainly seen the compulsions to keep on Clauding late into the night firsthand on multiple users (yes I am raising my own hand weakly).
 
