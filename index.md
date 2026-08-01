@@ -5,7 +5,7 @@ title: "About Me"
 
 Hi, I'm Avery. I design and build unique, illuminating ways to understand AI and agentic behavior.
 
-I'm a researcher collaborating with [David Bau](https://baulab.info/)'s laboratory, a member of [MIT AI Alignment](https://aialignment.mit.edu/) (MAIA), and an incoming [CBAI Fellow](https://www.cbai.ai/summer-research-fellowship-26) this summer with [Jayson Lynch](https://futuretech.mit.edu/team/jayson-lynch) of MIT FutureTech. I have ongoing frontier AI lab engagements.
+I'm a researcher collaborating with [David Bau](https://baulab.info/)'s laboratory, a member of [MIT AI Alignment](https://aialignment.mit.edu/) (MAIA), and a [CBAI Fellow](https://www.cbai.ai/summer-research-fellowship-26) this summer with [Jayson Lynch](https://futuretech.mit.edu/team/jayson-lynch) of MIT FutureTech.
 
 Before transitioning to AI research, I spent over 12 years as a software product engineer, with my longest tenure at Pivotal Labs.
 
@@ -24,3 +24,5 @@ I've been playing classical cello since I was about 7, having previously subbed 
 ## Contact
 
 Feel free to find me on [LinkedIn](https://linkedin.com/in/averyyen/), browse my [research](/research/), or read recent [writing](/writing/).
+
+[leave me anonymous feedback here](https://www.admonymous.co/avery-yen)
